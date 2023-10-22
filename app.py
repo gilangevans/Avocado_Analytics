@@ -35,7 +35,7 @@ app.layout = html.Div(
         html.Div(
             children=[
                 html.P(children="🥑", className="header-emoji"),
-                html.H1(children="Acovado Analytics",
+                html.H1(children="Avocado Analytics",
                 className="header-title",
                 ),
                 html.P(
